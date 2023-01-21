@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198565751870",
+    "project_id": "flitgorepartidor",
+    "storage_bucket": "flitgorepartidor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198565751870:android:f7323ea70529c8bcf0b56f",
+        "android_client_info": {
+          "package_name": "com.flitgoRepartidor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198565751870-vml27l9onitocrr76jthmu54ki6amk76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlz1xPOOF7o6lcP5PABglmIkRxgmKpaJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198565751870-vml27l9onitocrr76jthmu54ki6amk76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
